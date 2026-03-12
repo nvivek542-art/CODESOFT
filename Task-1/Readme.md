@@ -1,18 +1,18 @@
-Number Guessing Game
-A simple console-based Java game where the computer generates a random number and the user tries to guess it.
+ATM Interface
+A console-based ATM simulation program where users can check balance, deposit money, and withdraw money.
 
 Features
-1. Random number generation between 1 and 100
-2. User input for guessing the number
-3. Feedback if the guess is too high or too low
-4. Displays number of attempts taken to guess correctly
-
+1. Check account balance
+2. Deposit money
+3. Withdraw money
+4. Simple ATM menu interface
+   
 Concepts Used
-1. Random class
-2. Loops
+1. Classes and objects
+2. Methods
 3. Conditional statements
-4. User input using Scanne
-
+4. User input handling
+   
 Technologies Used
 1. Java
 2. Object-Oriented Programming
